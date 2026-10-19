@@ -3,8 +3,6 @@ dist
 coverage
 *.local
 .DS_Store
-.env
-.env.*
 !.env.example
 *.log
 *.tsbuildinfo
@@ -13,3 +11,8 @@ coverage
 test-output*.txt
 coverage/
 .vercel
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
